@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "../amruta-xai"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../nlp_streamlit"
+		},
+		{
+			"path": "../amruta-xai-v4"
+		},
+		{
+			"path": "../XAI_DEEP_LEARNING"
+		},
+		{
+			"path": "../PMML_streamlit"
+		},
+		{
+			"path": "../EDA_streamlit"
+		},
+		{
+			"path": "../outlier_xai"
+		},
+		{
+			"path": "../nlp_dl_transformers_app"
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../fairml"
+		},
+		{
+			"path": "../index_calc"
+		}
+	],
+	"settings": {}
+}

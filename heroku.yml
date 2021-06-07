@@ -1,0 +1,5 @@
+build:
+  docker:
+    web: Dockerfile
+run:
+  web: sh setup.sh && streamlit run --server.maxUploadSize=1028 app.py
